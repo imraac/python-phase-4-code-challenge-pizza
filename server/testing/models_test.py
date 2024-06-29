@@ -62,3 +62,4 @@ class TestRestaurantPizza:
                     restaurant_id=restaurant.id, pizza_id=pizza.id, price=31)
                 db.session.add(restaurant_pizza)
                 db.session.commit()
+                

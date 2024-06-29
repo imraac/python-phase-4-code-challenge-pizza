@@ -5,16 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: tomato;
+  background-color: rgb(141, 71, 255);
 }
 
 a {
-  color: firebrick;
+  color: rgb(178, 44, 34);
 }
 
 header {
   padding: 8px;
-  background-color: wheat;
+  background-color: rgb(230, 210, 172);
   display: flex;
   justify-content: space-between;
 }
@@ -55,7 +55,7 @@ header nav a {
 }
 
 .card {
-  background-color: wheat;
+  background-color: #b3bff5;
   padding: 16px;
   margin: 16px 0;
   border-radius: 8px;
